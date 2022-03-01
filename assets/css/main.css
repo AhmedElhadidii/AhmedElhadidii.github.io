@@ -174,7 +174,7 @@ ul li, ol li{
   width: 60%;
   height: 100%;
   z-index: -1;
-  background: #fff;
+  background: rgb(0, 0, 0);
   -webkit-transition: .9s;
   transition: .9s;
 }
